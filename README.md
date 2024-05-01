@@ -34,7 +34,6 @@ This will make a copy of the code to your local machine.
 cd DocConnect
 ```
 
-```
 
 3. Once the remote is set, install all the necessary dependencies by the following command:
 
